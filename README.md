@@ -35,9 +35,9 @@ Our projects have 4 main branches:
 ### Pull Request Creator Obligations
 - **Keep PRs small!** If you feel that a specific task is becoming too big, try to divide it into smaller ones;
 - **When necessary**, add a comment to every PR that you create explaining the code:
--- Your strategy to solve the issue;
--- Possible test cases;
--- If necessary, attach a picture of the feature/bugfix that you've made;
+  - Your strategy to solve the issue;
+  - Possible test cases;
+  - If necessary, attach a picture of the feature/bugfix that you've made;
 - What has been done on the PR (add a link to the Pivotal task when applicable);
 - Make sure that your code follows the style guide for your language of choice;
 - Your code is going to be seen by another developer, so strive to make it as clear as possible Be open-minded about suggestions made by reviewers;
